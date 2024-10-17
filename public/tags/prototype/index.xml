@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototype on DRU Games</title>
+    <link>http://localhost:1313/tags/prototype/</link>
+    <description>Recent content in Prototype on DRU Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (DRU Games)</managingEditor>
+    <webMaster>youremail@example.com (DRU Games)</webMaster>
+    <copyright>Copy, right?</copyright>
+    <lastBuildDate>Wed, 16 Oct 2024 21:17:52 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/prototype/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prototype</title>
+      <link>http://localhost:1313/posts/prototype/</link>
+      <pubDate>Wed, 16 Oct 2024 21:17:52 -0400</pubDate>
+      <author>youremail@example.com (DRU Games)</author>
+      <guid>http://localhost:1313/posts/prototype/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prototype/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
