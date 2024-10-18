@@ -16,9 +16,24 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Portfolio"
+  pageRef = "portfolio"
   weight = 20
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 25
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
+
+[[main]]
+  pre = "github"
+  url = "https://github.com/lairizzle"
+  weight = 35
 
 #[[main]]
 #  name = "example sub-menu 1"
@@ -36,23 +51,6 @@
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

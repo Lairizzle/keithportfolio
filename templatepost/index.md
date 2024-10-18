@@ -2,8 +2,8 @@
 title = 'Template Post'
 date = 2024-10-01T21:17:52-04:00
 draft = false
-categories = ['Gaming']
-tags = ['prototype']
+categories = ['General']
+tags = ['templates']
 +++
 
 ## Table of Contents 1
