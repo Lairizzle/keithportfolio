@@ -23,12 +23,12 @@ title = "Keith Henderson"
    bio = "I am a long time tech enthusiast and gamer. I enjoy creative outlets like art, music and programming."
    links = [
      { email = "mailto:keith.donaldh@gmail.com" },
-      { youtube = "https://www.youtube.com/channel/UCMMLTvXtbs97hBozwtklFIg" },
-      { twitch = "https://twitch.tv/lairizzle" },
       { github = "https://github.com/lairizzle" },
-      { spotify = "https://open.spotify.com/artist/63rbGTeN8Vr3DT0ZwveD0p" },
       { steam = "https://store.steampowered.com/search/?developer=DRU%20Games" },
       { x-twitter = "https://twitter.com/drugames_" },
+      { spotify = "https://open.spotify.com/artist/63rbGTeN8Vr3DT0ZwveD0p" },
+      { youtube = "https://www.youtube.com/channel/UCMMLTvXtbs97hBozwtklFIg" },
+      { twitch = "https://twitch.tv/lairizzle" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
