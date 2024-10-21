@@ -15,8 +15,8 @@ Parameters:
     allow="encrypted-media"></iframe>
 {{ else }}
 <iframe src="https://store.steampowered.com/widget/{{ .Get 0 }}"
-    width="{{ default "100%" (.Get 2) }}"
-    height="{{ default "380" (.Get 3) }}"
+    width="{{ default "100%" (.Get 1) }}"
+    height="{{ default "380" (.Get 2) }}"
     frameborder="0"
     allowtransparency="true"
     allow="encrypted-media"></iframe>
