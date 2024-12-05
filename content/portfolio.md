@@ -29,7 +29,7 @@ With over 20 years of playing multiple instruments and immersing myself in music
 {{< spotify type="artist" id="63rbGTeN8Vr3DT0ZwveD0p" width="100%" height="380" >}}
 
 <h4>Douglas Richard Sinclair's Spotify and Website</h4>
-{{< spotify type="artist" id="52avEoEVdoiTOA3E37VDKJ" width="100%" height="380" >}}
+{{< spotify type="artist" id="6TTWKcButqshZ0sma5FpwJ" width="100%" height="380" >}}
 
 <a href="https://www.rickstclair.com/">Check out Doug's Website here!</a>
 
