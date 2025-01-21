@@ -2,100 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Keith Henderson</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://keithdh.pages.dev/tags/</link>
     <description>Recent content in Tags on Keith Henderson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>keith.donaldh@gmail.com (Keith Henderson)</managingEditor>
     <webMaster>keith.donaldh@gmail.com (Keith Henderson)</webMaster>
     <copyright>Copy, right?</copyright>
-    <lastBuildDate>Sun, 29 Dec 2024 21:59:52 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
-      <pubDate>Sun, 29 Dec 2024 21:59:52 -0400</pubDate>
-      <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Sun, 29 Dec 2024 21:59:52 -0400</lastBuildDate><atom:link href="https://keithdh.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computers</title>
-      <link>http://localhost:1313/tags/computers/</link>
+      <link>https://keithdh.pages.dev/tags/computers/</link>
       <pubDate>Sun, 29 Dec 2024 21:59:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/computers/</guid>
+      <guid>https://keithdh.pages.dev/tags/computers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
+      <link>https://keithdh.pages.dev/tags/education/</link>
       <pubDate>Sun, 29 Dec 2024 21:59:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/education/</guid>
+      <guid>https://keithdh.pages.dev/tags/education/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vim</title>
-      <link>http://localhost:1313/tags/vim/</link>
+      <link>https://keithdh.pages.dev/tags/vim/</link>
       <pubDate>Sun, 29 Dec 2024 21:59:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/vim/</guid>
+      <guid>https://keithdh.pages.dev/tags/vim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/tags/hello/</link>
+      <link>https://keithdh.pages.dev/tags/hello/</link>
       <pubDate>Wed, 16 Oct 2024 21:17:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/hello/</guid>
+      <guid>https://keithdh.pages.dev/tags/hello/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gaming</title>
-      <link>http://localhost:1313/tags/gaming/</link>
+      <link>https://keithdh.pages.dev/tags/gaming/</link>
       <pubDate>Tue, 15 Oct 2024 21:17:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/gaming/</guid>
+      <guid>https://keithdh.pages.dev/tags/gaming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>https://keithdh.pages.dev/tags/music/</link>
       <pubDate>Tue, 15 Oct 2024 21:17:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>https://keithdh.pages.dev/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
+      <link>https://keithdh.pages.dev/tags/portfolio/</link>
       <pubDate>Tue, 15 Oct 2024 21:17:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <guid>https://keithdh.pages.dev/tags/portfolio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Work</title>
-      <link>http://localhost:1313/tags/work/</link>
+      <link>https://keithdh.pages.dev/tags/work/</link>
       <pubDate>Tue, 15 Oct 2024 21:17:52 -0400</pubDate>
       <author>keith.donaldh@gmail.com (Keith Henderson)</author>
-      <guid>http://localhost:1313/tags/work/</guid>
+      <guid>https://keithdh.pages.dev/tags/work/</guid>
       <description></description>
       
     </item>

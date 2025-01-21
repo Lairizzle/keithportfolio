@@ -1,9 +1,9 @@
 +++
-title = 'Learning NeoVim & C++'
+title = 'Learning NeoVim'
 date = 2024-12-29T21:59:52-04:00
 draft = false
 categories = ['General','Programming','Learning']
-tags = ['vim','c++','education','computers']
+tags = ['vim','education','computers']
 +++
 
 ### Pain With a Side of Pain
@@ -27,8 +27,8 @@ If you're a Linux user, you've been there. Lost in the sauce of customization an
 
 ### More Pain
 
-After everything was set up, I realized one thing. I wanted to learn C++, but I have no idea how to set up NeoVim as an IDE. After several days of watching youtube videos and getting a crash course on Lua, I finally had a NeoVim setup conducive to starting to learn C++. I had all the basics going; LSP, Linting, Formatting, DAP, etc. All the tools needed to start writing code were ready and I knew how to use most, except the Debugging, I know its working but I have no idea at all how to use it yet and it might be the most terrifying.  
+After everything was set up, I realized one thing. I wanted to learn Fullstack Javascript and React, but I have no idea how to set up NeoVim as an IDE. After several days of watching youtube videos and getting a crash course on Lua, I finally had a NeoVim setup conducive to starting to learn Javascript and React. I had all the basics going; LSP, Linting, Formatting, DAP, etc. All the tools needed to start writing code were ready and I knew how to use most, except the Debugging, I know its working but I have no idea at all how to use it yet and it might be the most terrifying.  
 
 ### Seeing The Light
 
-With a fresh as fuck Hyprland setup and some slick NeoVim configs, I have successfully completed the second chapter at the <a href="http://www.learncpp.com">LearnCPP</a> website and it is going great. Each day I continue to use NeoVim I can feel myself getting quicker, memorizing more motions and keybinds, discovering new tricks and slowly becoming more efficient. It also feels really great to stay more rooted in terminal when working and it just feels more fun at the end of the day. It has been a mildly frustrating road, but the benefits definitely make the pain worth it. If you haven't tried it, or you just assume its terrible. Do yourself a favour and Vim into something today. 
+Each day I continue to use NeoVim I can feel myself getting quicker, memorizing more motions and keybinds, discovering new tricks and slowly becoming more efficient. It also feels really great to stay more rooted in terminal when working and it just feels more fun at the end of the day. It has been a mildly frustrating road, but the benefits definitely make the pain worth it. If you haven't tried it, or you just assume its terrible. Do yourself a favour and Vim into something today. 
